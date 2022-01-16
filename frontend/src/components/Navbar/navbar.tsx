@@ -6,7 +6,7 @@ function Navbar() {
         <header>
             <nav className="container">
                 <div className="dsmovie-nav-content">
-                    <a href="http://localhost:3000/"><h1>DSMovie</h1></a> 
+                    <a href="https://imdb-dsmovie.netlify.app"><h1>DSMovie</h1></a> 
                     <a href="https://github.com/vanessabonis">
                         <div className="dsmovie-contact-container"> 
                             <GithubIcon />
